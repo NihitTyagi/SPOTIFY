@@ -219,7 +219,7 @@
 
 .left{
     position: absolute;
-    left: -110%;
+    /* left: -110%; */
     transition: all;
     z-index: 1;
     width: 400px;
